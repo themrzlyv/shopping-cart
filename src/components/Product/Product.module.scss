@@ -1,0 +1,28 @@
+.cardBadge {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+
+.cardFavorite {
+    position: absolute;
+    bottom: 20%;
+    right: 5%;
+    border: none !important;
+    outline: none !important;
+    background: transparent;
+}
+
+
+.cardImage {
+    width: 100%;
+    height: 15em;
+    object-fit: contain;
+}
+
+.secondaryText {
+    font-size: 0.8em;
+}
